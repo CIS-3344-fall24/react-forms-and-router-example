@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 clone the project with
 
-### `git clone (https://github.com/CIS-3344-fall24/react-forms-and-router-example.git)`
+### `git clone https://github.com/CIS-3344-fall24/react-forms-and-router-example.git`
 
 Then change you current working directory
 
