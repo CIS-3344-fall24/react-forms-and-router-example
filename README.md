@@ -4,11 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to run the project
 
-clone the project with ###`git clone [text](https://github.com/CIS-3344-fall24/react-forms-and-router-example.git)`
+clone the project with
 
-Then change you current working directory ###`cd react-forms-and-router-example`
+### `git clone (https://github.com/CIS-3344-fall24/react-forms-and-router-example.git)`
 
-Now install the node modules with ###`npm install`
+Then change you current working directory
+
+### `cd react-forms-and-router-example`
+
+Now install the node modules with
+
+### `npm install`
 
 ### `npm start`
 
