@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+.navbar{
+    background-color: rgb(223, 172, 110);
+    padding: 20px;
+    text-align: center;
+}
+.navbar h1{
+    background: transparent;
+}
